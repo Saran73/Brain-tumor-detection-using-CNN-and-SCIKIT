@@ -1,1 +1,1 @@
-
+Train the algorithm with more data. Data provided in the repo testing is minium
