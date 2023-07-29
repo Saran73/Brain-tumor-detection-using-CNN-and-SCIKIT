@@ -1,8 +1,6 @@
 markdown
 # Brain Tumor Detection using CNN and scikit-learn
 
-![Brain Tumor Detection](/path/to/your/image.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
